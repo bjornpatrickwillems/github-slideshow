@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
-Use the left arrow to go back!
+> no one can make you feel inferior without your consent
+> - Eleanor Roosevelt
